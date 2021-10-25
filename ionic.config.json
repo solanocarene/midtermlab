@@ -1,0 +1,7 @@
+{
+  "name": "midtermlab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
